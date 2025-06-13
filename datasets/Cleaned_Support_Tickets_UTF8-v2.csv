@@ -1,0 +1,725 @@
+submission_date,issue_description,resolution_date,priority_level,ticket_status
+11/11/2024,Issue syncing sales data from ERP into robotics supply chain dashboard.,11/19/2024,Medium,Closed - Resolved
+2/9/2025,Battery drain accelerating on self-navigating picker botsclient requests hardware review.,2/14/2025,High,On Hold
+6/9/2024,Customer account flagged as inactive during quarterly synccontract still in force until Q4.,6/15/2024,Urgent,Closed
+12/6/2024,Delivery tracking API pushing duplicate status updatescausing client-side UI clutter.,12/11/2024,Medium,Cancelled
+3/11/2025,Pick path optimization feature stuck in recalculating looplikely route matrix bug.,3/12/2025,Medium,Open
+8/11/2024,Custom firmware deployment not stickingdevice reverts to factory version after reboot.,8/20/2024,High,In Progress
+12/23/2024,Mobile control app crashing after recent OS updatecompatibility fix required.,1/2/2025,Low,Closed - Resolved
+3/9/2025,Temperature-controlled arm not holding cold-pack products steadilyactuator lag suspected.,3/19/2025,Urgent,On Hold
+11/17/2024,Heat map of robotic traffic not loading for West Coast territoryvisualization component broken.,11/20/2024,Low,Closed
+1/18/2025,Service report PDF not attaching to customer CRM recordautomation flow broken.,1/20/2025,Medium,Closed - Resolved
+12/13/2024,Order #98234 missing firmware version 5.3 for XYZ Series actuatorrequires urgent patch.,12/23/2024,High,Cancelled
+12/31/2024,Issue syncing sales data from ERP into robotics supply chain dashboard.,1/9/2025,Medium,Open
+4/5/2025,Return unit not accepting scanned QR codesoptical reader needs recalibration.,4/9/2025,High,Open
+1/5/2025,Armature alignment reset required after shippingrequesting field calibration.,1/11/2025,High,Closed
+5/18/2024,Delivery tracking API pushing duplicate status updatescausing client-side UI clutter.,5/26/2024,Urgent,Closed - Resolved
+2/10/2025,License expiration alerts not appearing for client adminmonitoring system inactive.,2/12/2025,High,On Hold
+6/9/2024,Inventory report mislabeling robotics model numbersSKU logic misfire.,6/16/2024,Medium,Closed
+7/21/2024,Customer unable to access remote diagnostics via mobile portalauthentication token not refreshing.,7/31/2024,High,Closed - Resolved
+11/16/2024,Mobile control app crashing after recent OS updatecompatibility fix required.,11/20/2024,Low,Cancelled
+5/1/2024,Feedback loop delay causing robotic palletizer to miss timing sync with conveyor belt.,5/7/2024,Medium,Open
+4/2/2025,Battery health metrics not populating in regional dashboardtelemetry stream missing.,4/6/2025,High,In Progress
+8/25/2024,Latest patch rolled out to wrong robot model familyrollback request submitted.,9/1/2024,Low,Cancelled
+4/28/2024,API returning null values for order tracking endpointbackend request timing out.,5/7/2024,High,On Hold
+4/14/2025,Data not syncing across international locationstimezone setting discrepancies confirmed.,4/20/2025,Medium,Open
+10/6/2024,Night shift override not deactivating during scheduled switchlogic conflict in script.,10/10/2024,Urgent,Closed - Resolved
+7/9/2024,Technician override mode triggering false alarmsUI miscommunication suspected.,7/12/2024,Medium,In Progress
+12/4/2024,Picking robot skipping assigned aisle in optimization routemap index might be corrupted.,12/9/2024,Urgent,Closed - Resolved
+1/16/2025,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,1/25/2025,Low,Closed
+2/23/2025,Temperature-controlled arm not holding cold-pack products steadilyactuator lag suspected.,2/24/2025,Medium,Cancelled
+12/7/2024,Customer reports robotic forklift overshooting dock alignmentcamera offset suspected.,12/16/2024,High,Closed - Resolved
+2/26/2025,Autonomous floor units reporting repeated LIDAR misreads in low-light conditions.,3/4/2025,Medium,Open
+12/21/2024,Label printer on packing bot jamming intermittentlyhardware service request opened.,12/30/2024,High,In Progress
+1/28/2025,Temperature sensor in robotic soldering unit reading above safe operating range.,2/4/2025,High,On Hold
+10/15/2024,Customer unable to submit service ticket via mobile portalUI issue on latest Android version.,10/23/2024,Medium,Closed
+8/3/2024,LED status indicator stuck in red despite system running normallyvisual false positive?,8/4/2024,Urgent,Closed - Resolved
+5/18/2024,Customer states predictive maintenance alert was missedpossible alert suppression rule.,5/20/2024,Medium,Closed - Resolved
+6/12/2024,AI co-pilot interface displaying outdated warehouse inventory despite live API integration.,6/21/2024,High,In Progress
+12/25/2024,System audit flagging unauthorized access attempt on robotics control API.,1/3/2025,Low,Closed - Resolved
+1/1/2025,Idle time tracking for warehouse units not logging correctlytelemetry data gap.,1/4/2025,High,Closed
+9/28/2024,Diagnostic tool unable to communicate with legacy hardwareadapter may be required.,9/29/2024,Low,Cancelled
+5/4/2024,Automated welding arm intermittently halts during high-heat cyclessuspected sensor calibration drift.,5/13/2024,Medium,On Hold
+8/29/2024,Heat map of robotic traffic not loading for West Coast territoryvisualization component broken.,8/30/2024,Urgent,Open
+6/16/2024,Battery drain accelerating on self-navigating picker botsclient requests hardware review.,6/18/2024,High,Closed - Resolved
+4/23/2024,Unexpected stop condition triggered during pallet rewrap routineinvestigating fault codes.,4/30/2024,Medium,Cancelled
+11/12/2024,Repeated '404 device not found' error on support dashboardbelieved to be ID mismatch.,11/17/2024,High,Open
+11/14/2024,Return unit not accepting scanned QR codesoptical reader needs recalibration.,11/14/2024,Urgent,In Progress
+9/7/2024,Navigation system freezing mid-shiftpacket loss observed in Wi-Fi logs.,9/7/2024,Low,Closed - Resolved
+9/19/2024,Unable to reset robotic arm to home positionreset protocol fails at step 3.,9/27/2024,Medium,On Hold
+12/9/2024,Customer service chatbot incorrectly routing requests about robotic arms to finance.,12/19/2024,Medium,Closed
+2/13/2025,Customer account flagged as inactive during quarterly synccontract still in force until Q4.,2/19/2025,High,Closed - Resolved
+8/31/2024,Customer reports excessive heat on robotics control panelcooling fan test requested.,9/1/2024,High,Closed - Resolved
+7/27/2024,Pick path optimization feature stuck in recalculating looplikely route matrix bug.,7/28/2024,Low,Open
+2/12/2025,Inconsistent barcode scanning during inbound sortationrequesting diagnostic logs.,2/18/2025,High,Closed
+6/21/2024,Issue syncing sales data from ERP into robotics supply chain dashboard.,6/26/2024,Urgent,In Progress
+3/31/2025,Billing dashboard showing duplicate line items for SLA renewalneeds manual reconciliation.,4/8/2025,Medium,Cancelled
+12/1/2024,Custom firmware deployment not stickingdevice reverts to factory version after reboot.,12/6/2024,Medium,On Hold
+11/3/2024,Support agent unable to replicate power cycling bug reported on new Roboweld Plus series.,11/6/2024,Low,On Hold
+6/11/2024,Service report PDF not attaching to customer CRM recordautomation flow broken.,6/18/2024,High,Open
+2/17/2025,Order #98234 missing firmware version 5.3 for XYZ Series actuatorrequires urgent patch.,2/22/2025,Medium,Closed - Resolved
+9/20/2024,Support team reports double charge on robotic part restockSLA breach inquiry pending.,9/29/2024,Urgent,Closed - Resolved
+10/1/2024,Discrepancy between scanned and delivered SKUspotential robotic misclassification event.,10/8/2024,High,Closed
+7/6/2024,Product loader mistiming drop-off with downstream conveyorsync pulse missing.,7/9/2024,Medium,In Progress
+11/21/2024,Voice command module failing to recognize commands with headset mic input.,12/1/2024,Low,Cancelled
+4/29/2024,Downtime incorrectly logged as resolved in dashboardresolution timestamp error.,4/30/2024,High,Cancelled
+12/14/2024,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,12/21/2024,Medium,Open
+2/8/2025,Scheduled maintenance scripts not executing on east region serverslikely time zone mismatch.,2/16/2025,Urgent,Closed - Resolved
+11/26/2024,Error 7002: No response from servo motor controller on axis Ypossible hardware failure.,12/5/2024,High,In Progress
+4/3/2025,Client unable to archive closed support ticketspermission role misconfiguration.,4/3/2025,Medium,Closed - Resolved
+6/9/2024,Armature alignment reset required after shippingrequesting field calibration.,6/13/2024,High,On Hold
+6/1/2024,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,6/4/2024,High,Closed
+8/29/2024,New actuator exhibiting slow response in colder environmentsmaterial tolerance concern.,8/30/2024,Urgent,Cancelled
+3/31/2025,Task scheduler running duplicate jobs on dual-robot configurationdeadlock conditions observed.,4/7/2025,Low,Open
+3/23/2025,Load cell in robotic lifter reading zero under active payloadsuspected cable break.,3/24/2025,Medium,Closed - Resolved
+9/13/2024,Remote shutdown of customer system initiated without proper command logpossible logging misfire.,9/23/2024,Medium,In Progress
+12/22/2024,Motion sensor fault in entry-level AGVsuspected electromagnetic interference.,12/27/2024,Medium,Closed - Resolved
+4/14/2025,Robot arm #4 failed precision test during QAtolerance exceeds threshold by 0.04 mm.,4/15/2025,High,On Hold
+10/13/2024,Firmware rollback initiated unintentionallyclient device now stuck in bootloader loop.,10/21/2024,Low,Closed
+5/11/2024,High-pitched tone coming from servo in model XR100engineering to review noise profile.,5/16/2024,High,On Hold
+11/23/2024,HR database not syncing with shift handoff bot schedulermissing employee record.,12/2/2024,Medium,Closed - Resolved
+9/6/2024,Wireless module upgrade caused latency spikepossible firmware mismatch.,9/8/2024,Urgent,Closed - Resolved
+7/28/2024,Error 412 triggered during over-the-air update to robotic welding units in Southeast territory.,7/30/2024,Low,Open
+3/5/2025,Unexpected motor vibration on high-speed units deployed in humid environments.,3/7/2025,High,Closed
+10/16/2024,Overhead robotic crane misaligned after system updaterequesting recalibration walkthrough.,10/24/2024,Urgent,In Progress
+5/22/2024,User permissions incorrectly assignedadmin access granted to technician role.,5/24/2024,Medium,Cancelled
+8/30/2024,Routine maintenance tag not updating in system despite completionworkflow integration error.,9/8/2024,Medium,Closed
+9/22/2024,3D vision system under-picking SKUs from top shelvesimage recognition needs retraining.,9/27/2024,High,Cancelled
+1/2/2025,Custom firmware deployment not stickingdevice reverts to factory version after reboot.,1/3/2025,Medium,On Hold
+7/2/2024,Support agent unable to replicate power cycling bug reported on new Roboweld Plus series.,7/9/2024,High,Open
+9/26/2024,Service report PDF not attaching to customer CRM recordautomation flow broken.,9/30/2024,Urgent,Closed - Resolved
+11/19/2024,Order #98234 missing firmware version 5.3 for XYZ Series actuatorrequires urgent patch.,11/24/2024,Low,In Progress
+4/23/2024,Support team reports double charge on robotic part restockSLA breach inquiry pending.,4/30/2024,Medium,Closed - Resolved
+12/29/2024,Discrepancy between scanned and delivered SKUspotential robotic misclassification event.,1/2/2025,High,Open
+2/17/2025,Product loader mistiming drop-off with downstream conveyorsync pulse missing.,2/20/2025,Low,Closed - Resolved
+11/30/2024,Voice command module failing to recognize commands with headset mic input.,12/8/2024,High,Closed - Resolved
+12/27/2024,Downtime incorrectly logged as resolved in dashboardresolution timestamp error.,12/31/2024,Medium,Closed
+12/8/2024,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,12/10/2024,Urgent,In Progress
+6/14/2024,Scheduled maintenance scripts not executing on east region serverslikely time zone mismatch.,6/21/2024,High,Cancelled
+7/6/2024,Error 7002: No response from servo motor controller on axis Ypossible hardware failure.,7/12/2024,Medium,On Hold
+11/17/2024,Client unable to archive closed support ticketspermission role misconfiguration.,11/23/2024,Medium,Closed
+1/26/2025,Armature alignment reset required after shippingrequesting field calibration.,1/29/2025,Medium,Closed - Resolved
+5/3/2024,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,5/4/2024,High,Cancelled
+7/17/2024,New actuator exhibiting slow response in colder environmentsmaterial tolerance concern.,7/24/2024,High,Closed - Resolved
+6/16/2024,Task scheduler running duplicate jobs on dual-robot configurationdeadlock conditions observed.,6/18/2024,Urgent,Open
+4/12/2025,Load cell in robotic lifter reading zero under active payloadsuspected cable break.,4/21/2025,Low,In Progress
+8/17/2024,Remote shutdown of customer system initiated without proper command logpossible logging misfire.,8/17/2024,High,On Hold
+12/12/2024,Motion sensor fault in entry-level AGVsuspected electromagnetic interference.,12/20/2024,Low,Cancelled
+6/16/2024,Robot arm #4 failed precision test during QAtolerance exceeds threshold by 0.04 mm.,6/18/2024,High,Open
+8/10/2024,Firmware rollback initiated unintentionallyclient device now stuck in bootloader loop.,8/10/2024,Medium,Closed - Resolved
+4/5/2025,High-pitched tone coming from servo in model XR100engineering to review noise profile.,4/7/2025,Urgent,In Progress
+5/13/2024,HR database not syncing with shift handoff bot schedulermissing employee record.,5/22/2024,Medium,Closed - Resolved
+11/17/2024,Wireless module upgrade caused latency spikepossible firmware mismatch.,11/19/2024,Low,On Hold
+7/8/2024,Error 412 triggered during over-the-air update to robotic welding units in Southeast territory.,7/13/2024,Medium,Closed
+11/15/2024,Unexpected motor vibration on high-speed units deployed in humid environments.,11/16/2024,Medium,Closed
+1/10/2025,Overhead robotic crane misaligned after system updaterequesting recalibration walkthrough.,1/14/2025,High,In Progress
+7/12/2024,User permissions incorrectly assignedadmin access granted to technician role.,7/16/2024,High,Cancelled
+7/21/2024,Routine maintenance tag not updating in system despite completionworkflow integration error.,7/29/2024,Urgent,On Hold
+3/11/2025,3D vision system under-picking SKUs from top shelvesimage recognition needs retraining.,3/19/2025,Low,Closed - Resolved
+4/27/2024,Delivery tracking API pushing duplicate status updatescausing client-side UI clutter.,5/5/2024,High,Closed - Resolved
+3/27/2025,License expiration alerts not appearing for client adminmonitoring system inactive.,3/30/2025,Medium,Open
+6/17/2024,Inventory report mislabeling robotics model numbersSKU logic misfire.,6/26/2024,Urgent,Cancelled
+8/28/2024,Customer unable to access remote diagnostics via mobile portalauthentication token not refreshing.,9/7/2024,Medium,On Hold
+4/26/2024,Mobile control app crashing after recent OS updatecompatibility fix required.,4/29/2024,High,Open
+3/28/2025,Feedback loop delay causing robotic palletizer to miss timing sync with conveyor belt.,4/2/2025,Low,Closed - Resolved
+1/11/2025,Battery health metrics not populating in regional dashboardtelemetry stream missing.,1/17/2025,High,In Progress
+2/20/2025,Latest patch rolled out to wrong robot model familyrollback request submitted.,2/24/2025,Urgent,Closed - Resolved
+4/11/2025,API returning null values for order tracking endpointbackend request timing out.,4/13/2025,Medium,Closed
+4/11/2025,Data not syncing across international locationstimezone setting discrepancies confirmed.,4/19/2025,Medium,Open
+7/17/2024,Night shift override not deactivating during scheduled switchlogic conflict in script.,7/21/2024,High,Closed
+2/8/2025,Technician override mode triggering false alarmsUI miscommunication suspected.,2/15/2025,Medium,In Progress
+9/2/2024,Picking robot skipping assigned aisle in optimization routemap index might be corrupted.,9/5/2024,High,On Hold
+12/19/2024,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,12/26/2024,Medium,Closed - Resolved
+4/4/2025,Temperature-controlled arm not holding cold-pack products steadilyactuator lag suspected.,4/10/2025,High,Cancelled
+4/4/2025,Customer reports robotic forklift overshooting dock alignmentcamera offset suspected.,4/13/2025,Urgent,Closed - Resolved
+7/5/2024,Autonomous floor units reporting repeated LIDAR misreads in low-light conditions.,7/8/2024,Low,Open
+11/8/2024,Label printer on packing bot jamming intermittentlyhardware service request opened.,11/14/2024,Urgent,Closed - Resolved
+11/13/2024,Temperature sensor in robotic soldering unit reading above safe operating range.,11/22/2024,Low,In Progress
+7/25/2024,Customer unable to submit service ticket via mobile portalUI issue on latest Android version.,7/27/2024,Medium,Closed - Resolved
+1/29/2025,LED status indicator stuck in red despite system running normallyvisual false positive?,1/30/2025,Medium,Closed
+2/12/2025,Customer states predictive maintenance alert was missedpossible alert suppression rule.,2/16/2025,High,Cancelled
+12/28/2024,AI co-pilot interface displaying outdated warehouse inventory despite live API integration.,1/5/2025,High,On Hold
+12/29/2024,System audit flagging unauthorized access attempt on robotics control API.,1/8/2025,High,Open
+8/24/2024,Idle time tracking for warehouse units not logging correctlytelemetry data gap.,8/25/2024,Low,Closed - Resolved
+3/28/2025,Diagnostic tool unable to communicate with legacy hardwareadapter may be required.,4/1/2025,High,Closed - Resolved
+3/2/2025,Automated welding arm intermittently halts during high-heat cyclessuspected sensor calibration drift.,3/11/2025,Medium,Closed
+8/7/2024,Heat map of robotic traffic not loading for West Coast territoryvisualization component broken.,8/11/2024,Urgent,In Progress
+6/20/2024,Battery drain accelerating on self-navigating picker botsclient requests hardware review.,6/23/2024,Medium,Cancelled
+10/6/2024,Unexpected stop condition triggered during pallet rewrap routineinvestigating fault codes.,10/10/2024,High,On Hold
+8/1/2024,Repeated '404 device not found' error on support dashboardbelieved to be ID mismatch.,8/9/2024,Low,In Progress
+1/16/2025,Return unit not accepting scanned QR codesoptical reader needs recalibration.,1/24/2025,High,On Hold
+3/11/2025,Navigation system freezing mid-shiftpacket loss observed in Wi-Fi logs.,3/13/2025,Medium,Closed
+5/23/2024,Unable to reset robotic arm to home positionreset protocol fails at step 3.,5/28/2024,Urgent,Closed - Resolved
+3/15/2025,Customer service chatbot incorrectly routing requests about robotic arms to finance.,3/21/2025,Medium,Cancelled
+8/1/2024,Customer account flagged as inactive during quarterly synccontract still in force until Q4.,8/10/2024,Urgent,Closed - Resolved
+3/28/2025,Customer reports excessive heat on robotics control panelcooling fan test requested.,4/4/2025,High,Open
+6/24/2024,Pick path optimization feature stuck in recalculating looplikely route matrix bug.,6/27/2024,Medium,Closed - Resolved
+11/3/2024,Inconsistent barcode scanning during inbound sortationrequesting diagnostic logs.,11/7/2024,High,Open
+6/10/2024,Issue syncing sales data from ERP into robotics supply chain dashboard.,6/17/2024,Low,Closed
+1/15/2025,Billing dashboard showing duplicate line items for SLA renewalneeds manual reconciliation.,1/24/2025,Medium,In Progress
+2/27/2025,Motion sensor fault in entry-level AGVsuspected electromagnetic interference.,3/7/2025,Low,On Hold
+11/16/2024,System audit flagging unauthorized access attempt on robotics control API.,11/24/2024,Medium,Closed - Resolved
+3/17/2025,Client unable to archive closed support ticketspermission role misconfiguration.,3/22/2025,Urgent,Cancelled
+8/25/2024,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,8/31/2024,High,Cancelled
+2/17/2025,License expiration alerts not appearing for client adminmonitoring system inactive.,2/21/2025,Medium,On Hold
+4/11/2025,HR database not syncing with shift handoff bot schedulermissing employee record.,4/21/2025,High,Open
+6/12/2024,Discrepancy between scanned and delivered SKUspotential robotic misclassification event.,6/17/2024,Urgent,Closed - Resolved
+1/16/2025,Remote shutdown of customer system initiated without proper command logpossible logging misfire.,1/23/2025,Low,In Progress
+12/30/2024,Inventory report mislabeling robotics model numbersSKU logic misfire.,1/6/2025,Medium,Closed - Resolved
+2/6/2025,Task scheduler running duplicate jobs on dual-robot configurationdeadlock conditions observed.,2/14/2025,Medium,Closed
+4/9/2025,Autonomous floor units reporting repeated LIDAR misreads in low-light conditions.,4/16/2025,High,On Hold
+10/13/2024,Unexpected stop condition triggered during pallet rewrap routineinvestigating fault codes.,10/17/2024,High,Open
+11/21/2024,Idle time tracking for warehouse units not logging correctlytelemetry data gap.,11/27/2024,High,Closed - Resolved
+8/24/2024,Return unit not accepting scanned QR codesoptical reader needs recalibration.,8/30/2024,Low,In Progress
+8/1/2024,Heat map of robotic traffic not loading for West Coast territoryvisualization component broken.,8/8/2024,Medium,Closed - Resolved
+3/21/2025,Battery drain accelerating on self-navigating picker botsclient requests hardware review.,3/29/2025,Urgent,Closed
+6/27/2024,Battery health metrics not populating in regional dashboardtelemetry stream missing.,7/5/2024,High,Cancelled
+1/26/2025,Delivery tracking API pushing duplicate status updatescausing client-side UI clutter.,2/4/2025,Medium,Closed - Resolved
+1/30/2025,Scheduled maintenance scripts not executing on east region serverslikely time zone mismatch.,1/31/2025,Low,On Hold
+4/21/2025,Repeated '404 device not found' error on support dashboardbelieved to be ID mismatch.,4/27/2025,Medium,Closed
+5/2/2024,Unexpected motor vibration on high-speed units deployed in humid environments.,5/10/2024,Urgent,Closed - Resolved
+5/5/2024,Routine maintenance tag not updating in system despite completionworkflow integration error.,5/8/2024,High,Cancelled
+1/8/2025,Support agent unable to replicate power cycling bug reported on new Roboweld Plus series.,1/9/2025,Medium,Open
+9/15/2024,Temperature-controlled arm not holding cold-pack products steadilyactuator lag suspected.,9/18/2024,High,In Progress
+5/8/2024,New actuator exhibiting slow response in colder environmentsmaterial tolerance concern.,5/8/2024,Medium,Cancelled
+7/14/2024,Downtime incorrectly logged as resolved in dashboardresolution timestamp error.,7/19/2024,High,Open
+6/21/2024,Navigation system freezing mid-shiftpacket loss observed in Wi-Fi logs.,6/24/2024,Medium,In Progress
+3/28/2025,Service report PDF not attaching to customer CRM recordautomation flow broken.,3/31/2025,High,Closed - Resolved
+12/26/2024,Customer unable to submit service ticket via mobile portalUI issue on latest Android version.,12/31/2024,Urgent,On Hold
+6/19/2024,Issue syncing sales data from ERP into robotics supply chain dashboard.,6/24/2024,Low,Closed
+10/13/2024,Feedback loop delay causing robotic palletizer to miss timing sync with conveyor belt.,10/22/2024,High,Closed - Resolved
+2/16/2025,Wireless module upgrade caused latency spikepossible firmware mismatch.,2/16/2025,Low,Closed - Resolved
+3/25/2025,Mobile control app crashing after recent OS updatecompatibility fix required.,3/27/2025,High,Open
+4/4/2025,Firmware rollback initiated unintentionallyclient device now stuck in bootloader loop.,4/13/2025,Urgent,Closed
+6/8/2024,Support team reports double charge on robotic part restockSLA breach inquiry pending.,6/10/2024,Medium,In Progress
+7/10/2024,Product loader mistiming drop-off with downstream conveyorsync pulse missing.,7/16/2024,Medium,Cancelled
+12/12/2024,Automated welding arm intermittently halts during high-heat cyclessuspected sensor calibration drift.,12/20/2024,High,On Hold
+8/16/2024,Picking robot skipping assigned aisle in optimization routemap index might be corrupted.,8/19/2024,Low,Closed - Resolved
+5/4/2024,Night shift override not deactivating during scheduled switchlogic conflict in script.,5/10/2024,High,Closed - Resolved
+6/16/2024,Voice command module failing to recognize commands with headset mic input.,6/25/2024,Urgent,Cancelled
+12/15/2024,Customer service chatbot incorrectly routing requests about robotic arms to finance.,12/22/2024,Medium,Open
+7/27/2024,Inconsistent barcode scanning during inbound sortationrequesting diagnostic logs.,8/2/2024,Medium,In Progress
+8/11/2024,Overhead robotic crane misaligned after system updaterequesting recalibration walkthrough.,8/17/2024,Medium,Closed - Resolved
+5/13/2024,Robot arm #4 failed precision test during QAtolerance exceeds threshold by 0.04 mm.,5/19/2024,Medium,On Hold
+9/8/2024,Customer states predictive maintenance alert was missedpossible alert suppression rule.,9/16/2024,High,Closed
+8/2/2024,AI co-pilot interface displaying outdated warehouse inventory despite live API integration.,8/10/2024,Low,Cancelled
+9/20/2024,Technician override mode triggering false alarmsUI miscommunication suspected.,9/27/2024,High,Open
+11/19/2024,Pick path optimization feature stuck in recalculating looplikely route matrix bug.,11/27/2024,Urgent,In Progress
+12/19/2024,High-pitched tone coming from servo in model XR100engineering to review noise profile.,12/22/2024,High,Closed - Resolved
+5/7/2024,Data not syncing across international locationstimezone setting discrepancies confirmed.,5/8/2024,High,On Hold
+11/25/2024,3D vision system under-picking SKUs from top shelvesimage recognition needs retraining.,11/26/2024,Urgent,Closed
+5/7/2024,Custom firmware deployment not stickingdevice reverts to factory version after reboot.,5/14/2024,Low,Closed - Resolved
+12/30/2024,Customer account flagged as inactive during quarterly synccontract still in force until Q4.,1/6/2025,Medium,In Progress
+6/25/2024,Armature alignment reset required after shippingrequesting field calibration.,7/5/2024,Medium,On Hold
+5/14/2024,Error 412 triggered during over-the-air update to robotic welding units in Southeast territory.,5/21/2024,High,Closed
+3/18/2025,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,3/23/2025,Medium,Closed - Resolved
+1/24/2025,Unable to reset robotic arm to home positionreset protocol fails at step 3.,1/27/2025,Urgent,Cancelled
+1/14/2025,Temperature sensor in robotic soldering unit reading above safe operating range.,1/15/2025,High,Closed - Resolved
+4/11/2025,Load cell in robotic lifter reading zero under active payloadsuspected cable break.,4/20/2025,Medium,Open
+3/18/2025,Billing dashboard showing duplicate line items for SLA renewalneeds manual reconciliation.,3/28/2025,Low,On Hold
+12/18/2024,User permissions incorrectly assignedadmin access granted to technician role.,12/21/2024,Urgent,Open
+11/22/2024,Diagnostic tool unable to communicate with legacy hardwareadapter may be required.,11/23/2024,Low,Closed - Resolved
+10/24/2024,Order #98234 missing firmware version 5.3 for XYZ Series actuatorrequires urgent patch.,10/27/2024,Medium,Closed - Resolved
+4/29/2024,Label printer on packing bot jamming intermittentlyhardware service request opened.,4/30/2024,High,Closed
+1/5/2025,Customer unable to access remote diagnostics via mobile portalauthentication token not refreshing.,1/14/2025,Medium,In Progress
+6/7/2024,Latest patch rolled out to wrong robot model familyrollback request submitted.,6/10/2024,High,Cancelled
+4/6/2025,Customer reports excessive heat on robotics control panelcooling fan test requested.,4/8/2025,High,Cancelled
+6/16/2024,API returning null values for order tracking endpointbackend request timing out.,6/25/2024,Medium,On Hold
+10/10/2024,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,10/17/2024,High,Open
+5/22/2024,Error 7002: No response from servo motor controller on axis Ypossible hardware failure.,5/23/2024,Urgent,Closed - Resolved
+11/6/2024,Customer reports robotic forklift overshooting dock alignmentcamera offset suspected.,11/6/2024,Low,Closed - Resolved
+5/9/2024,LED status indicator stuck in red despite system running normallyvisual false positive?,5/19/2024,Medium,Closed
+9/4/2024,Inventory report mislabeling robotics model numbersSKU logic misfire.,9/4/2024,High,In Progress
+9/26/2024,Night shift override not deactivating during scheduled switchlogic conflict in script.,9/26/2024,Medium,Closed
+9/30/2024,User permissions incorrectly assignedadmin access granted to technician role.,10/9/2024,Urgent,In Progress
+2/26/2025,Picking robot skipping assigned aisle in optimization routemap index might be corrupted.,2/28/2025,High,Cancelled
+4/14/2025,Idle time tracking for warehouse units not logging correctlytelemetry data gap.,4/16/2025,Medium,On Hold
+10/27/2024,Downtime incorrectly logged as resolved in dashboardresolution timestamp error.,11/2/2024,Low,Open
+10/27/2024,Battery health metrics not populating in regional dashboardtelemetry stream missing.,11/1/2024,High,Closed - Resolved
+2/25/2025,Latest patch rolled out to wrong robot model familyrollback request submitted.,3/2/2025,Urgent,Closed - Resolved
+12/16/2024,Billing dashboard showing duplicate line items for SLA renewalneeds manual reconciliation.,12/17/2024,Low,On Hold
+11/5/2024,System audit flagging unauthorized access attempt on robotics control API.,11/11/2024,Medium,Closed - Resolved
+5/18/2024,Customer account flagged as inactive during quarterly synccontract still in force until Q4.,5/19/2024,Medium,Cancelled
+11/30/2024,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,12/6/2024,High,Closed - Resolved
+6/8/2024,Motion sensor fault in entry-level AGVsuspected electromagnetic interference.,6/12/2024,Medium,Open
+10/31/2024,High-pitched tone coming from servo in model XR100engineering to review noise profile.,11/4/2024,Medium,Closed
+1/10/2025,Wireless module upgrade caused latency spikepossible firmware mismatch.,1/15/2025,High,In Progress
+8/8/2024,Unable to reset robotic arm to home positionreset protocol fails at step 3.,8/9/2024,Low,Closed - Resolved
+9/16/2024,Technician override mode triggering false alarmsUI miscommunication suspected.,9/21/2024,High,In Progress
+10/24/2024,Customer service chatbot incorrectly routing requests about robotic arms to finance.,10/31/2024,Urgent,Closed - Resolved
+8/10/2024,HR database not syncing with shift handoff bot schedulermissing employee record.,8/16/2024,Urgent,On Hold
+3/7/2025,Support team reports double charge on robotic part restockSLA breach inquiry pending.,3/15/2025,Low,Closed
+3/14/2025,Unexpected motor vibration on high-speed units deployed in humid environments.,3/21/2025,Medium,Cancelled
+8/8/2024,Delivery tracking API pushing duplicate status updatescausing client-side UI clutter.,8/15/2024,Medium,Open
+1/15/2025,Service report PDF not attaching to customer CRM recordautomation flow broken.,1/21/2025,High,Closed - Resolved
+5/21/2024,Autonomous floor units reporting repeated LIDAR misreads in low-light conditions.,5/23/2024,High,Open
+8/2/2024,License expiration alerts not appearing for client adminmonitoring system inactive.,8/11/2024,Low,In Progress
+3/8/2025,Automated welding arm intermittently halts during high-heat cyclessuspected sensor calibration drift.,3/17/2025,Medium,On Hold
+4/22/2025,Pick path optimization feature stuck in recalculating looplikely route matrix bug.,4/28/2025,Urgent,Closed
+6/18/2024,Temperature-controlled arm not holding cold-pack products steadilyactuator lag suspected.,6/26/2024,High,Closed - Resolved
+4/4/2025,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,4/13/2025,Medium,Cancelled
+11/26/2024,Inconsistent barcode scanning during inbound sortationrequesting diagnostic logs.,11/28/2024,High,On Hold
+6/1/2024,Custom firmware deployment not stickingdevice reverts to factory version after reboot.,6/9/2024,Medium,Closed
+6/27/2024,Client unable to archive closed support ticketspermission role misconfiguration.,7/5/2024,High,Closed - Resolved
+8/28/2024,Armature alignment reset required after shippingrequesting field calibration.,9/2/2024,High,Cancelled
+1/20/2025,New actuator exhibiting slow response in colder environmentsmaterial tolerance concern.,1/21/2025,Urgent,Closed - Resolved
+3/1/2025,Support agent unable to replicate power cycling bug reported on new Roboweld Plus series.,3/8/2025,Low,Open
+3/28/2025,LED status indicator stuck in red despite system running normallyvisual false positive?,3/31/2025,Medium,In Progress
+7/15/2024,Load cell in robotic lifter reading zero under active payloadsuspected cable break.,7/19/2024,High,Closed - Resolved
+9/11/2024,API returning null values for order tracking endpointbackend request timing out.,9/19/2024,Urgent,In Progress
+11/20/2024,Return unit not accepting scanned QR codesoptical reader needs recalibration.,11/21/2024,Low,Closed - Resolved
+8/13/2024,Customer states predictive maintenance alert was missedpossible alert suppression rule.,8/18/2024,Medium,On Hold
+9/24/2024,Label printer on packing bot jamming intermittentlyhardware service request opened.,9/26/2024,Medium,Closed
+10/30/2024,Error 412 triggered during over-the-air update to robotic welding units in Southeast territory.,11/5/2024,High,Cancelled
+3/24/2025,AI co-pilot interface displaying outdated warehouse inventory despite live API integration.,3/28/2025,Medium,Open
+5/12/2024,Battery drain accelerating on self-navigating picker botsclient requests hardware review.,5/19/2024,Low,Closed - Resolved
+3/31/2025,Firmware rollback initiated unintentionallyclient device now stuck in bootloader loop.,4/3/2025,High,Cancelled
+8/19/2024,Error 7002: No response from servo motor controller on axis Ypossible hardware failure.,8/28/2024,Medium,Closed - Resolved
+6/15/2024,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,6/18/2024,Urgent,Open
+5/31/2024,Customer reports excessive heat on robotics control panelcooling fan test requested.,6/4/2024,High,Closed
+3/5/2025,Feedback loop delay causing robotic palletizer to miss timing sync with conveyor belt.,3/7/2025,Medium,In Progress
+4/22/2025,Unexpected stop condition triggered during pallet rewrap routineinvestigating fault codes.,4/29/2025,Urgent,On Hold
+12/4/2024,Task scheduler running duplicate jobs on dual-robot configurationdeadlock conditions observed.,12/6/2024,High,Closed
+8/11/2024,Customer unable to access remote diagnostics via mobile portalauthentication token not refreshing.,8/20/2024,Medium,In Progress
+1/25/2025,Overhead robotic crane misaligned after system updaterequesting recalibration walkthrough.,1/27/2025,Low,Cancelled
+7/14/2024,Routine maintenance tag not updating in system despite completionworkflow integration error.,7/20/2024,High,On Hold
+2/22/2025,Customer reports robotic forklift overshooting dock alignmentcamera offset suspected.,2/24/2025,High,Open
+3/29/2025,Voice command module failing to recognize commands with headset mic input.,3/30/2025,Urgent,Closed - Resolved
+11/13/2024,Customer unable to submit service ticket via mobile portalUI issue on latest Android version.,11/16/2024,Medium,Closed - Resolved
+11/27/2024,Heat map of robotic traffic not loading for West Coast territoryvisualization component broken.,12/5/2024,High,Open
+12/27/2024,Remote shutdown of customer system initiated without proper command logpossible logging misfire.,1/2/2025,Low,Closed
+5/21/2024,3D vision system under-picking SKUs from top shelvesimage recognition needs retraining.,5/26/2024,Urgent,In Progress
+9/4/2024,Temperature sensor in robotic soldering unit reading above safe operating range.,9/14/2024,High,Cancelled
+3/1/2025,Data not syncing across international locationstimezone setting discrepancies confirmed.,3/5/2025,Medium,On Hold
+8/23/2024,Mobile control app crashing after recent OS updatecompatibility fix required.,8/30/2024,Low,Closed - Resolved
+8/25/2024,Order #98234 missing firmware version 5.3 for XYZ Series actuatorrequires urgent patch.,8/27/2024,High,Open
+2/11/2025,Product loader mistiming drop-off with downstream conveyorsync pulse missing.,2/15/2025,Medium,In Progress
+2/11/2025,Scheduled maintenance scripts not executing on east region serverslikely time zone mismatch.,2/12/2025,Medium,Closed - Resolved
+4/18/2025,Repeated '404 device not found' error on support dashboardbelieved to be ID mismatch.,4/24/2025,Urgent,On Hold
+10/16/2024,Diagnostic tool unable to communicate with legacy hardwareadapter may be required.,10/18/2024,Medium,Closed
+8/7/2024,Discrepancy between scanned and delivered SKUspotential robotic misclassification event.,8/9/2024,High,Closed - Resolved
+9/30/2024,Robot arm #4 failed precision test during QAtolerance exceeds threshold by 0.04 mm.,10/4/2024,Low,Cancelled
+6/8/2024,Navigation system freezing mid-shiftpacket loss observed in Wi-Fi logs.,6/14/2024,High,In Progress
+8/1/2024,Wireless module upgrade caused latency spikepossible firmware mismatch.,8/8/2024,Low,Cancelled
+4/25/2024,Overhead robotic crane misaligned after system updaterequesting recalibration walkthrough.,4/29/2024,High,On Hold
+12/29/2024,Automated welding arm intermittently halts during high-heat cyclessuspected sensor calibration drift.,1/4/2025,Urgent,Closed - Resolved
+4/23/2024,HR database not syncing with shift handoff bot schedulermissing employee record.,4/27/2024,Medium,Closed - Resolved
+8/24/2024,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,8/27/2024,Medium,Open
+7/19/2024,Temperature sensor in robotic soldering unit reading above safe operating range.,7/25/2024,High,Closed
+5/29/2024,Pick path optimization feature stuck in recalculating looplikely route matrix bug.,6/4/2024,High,Closed - Resolved
+12/5/2024,Inconsistent barcode scanning during inbound sortationrequesting diagnostic logs.,12/6/2024,Low,Closed - Resolved
+11/6/2024,Idle time tracking for warehouse units not logging correctlytelemetry data gap.,11/14/2024,Medium,Open
+6/22/2024,License expiration alerts not appearing for client adminmonitoring system inactive.,6/26/2024,Urgent,Closed
+11/1/2024,Battery health metrics not populating in regional dashboardtelemetry stream missing.,11/6/2024,High,In Progress
+10/15/2024,Unexpected motor vibration on high-speed units deployed in humid environments.,10/24/2024,Medium,Cancelled
+8/26/2024,Robot arm #4 failed precision test during QAtolerance exceeds threshold by 0.04 mm.,9/3/2024,High,On Hold
+4/7/2025,Delivery tracking API pushing duplicate status updatescausing client-side UI clutter.,4/7/2025,Urgent,Closed
+8/3/2024,Routine maintenance tag not updating in system despite completionworkflow integration error.,8/9/2024,Low,Cancelled
+8/22/2024,New actuator exhibiting slow response in colder environmentsmaterial tolerance concern.,8/29/2024,Medium,Open
+12/10/2024,User permissions incorrectly assignedadmin access granted to technician role.,12/11/2024,High,Closed - Resolved
+8/27/2024,Custom firmware deployment not stickingdevice reverts to factory version after reboot.,9/4/2024,Medium,In Progress
+6/29/2024,Service report PDF not attaching to customer CRM recordautomation flow broken.,7/6/2024,Urgent,Closed - Resolved
+5/19/2024,Error 7002: No response from servo motor controller on axis Ypossible hardware failure.,5/28/2024,Low,On Hold
+1/18/2025,Customer reports excessive heat on robotics control panelcooling fan test requested.,1/27/2025,Medium,In Progress
+6/6/2024,Customer unable to submit service ticket via mobile portalUI issue on latest Android version.,6/8/2024,High,Closed - Resolved
+10/16/2024,Mobile control app crashing after recent OS updatecompatibility fix required.,10/21/2024,Medium,On Hold
+4/11/2025,Order #98234 missing firmware version 5.3 for XYZ Series actuatorrequires urgent patch.,4/18/2025,High,Closed
+11/1/2024,LED status indicator stuck in red despite system running normallyvisual false positive?,11/7/2024,Medium,Cancelled
+7/4/2024,System audit flagging unauthorized access attempt on robotics control API.,7/9/2024,Medium,Open
+10/4/2024,Issue syncing sales data from ERP into robotics supply chain dashboard.,10/7/2024,High,Closed - Resolved
+10/7/2024,Firmware rollback initiated unintentionallyclient device now stuck in bootloader loop.,10/9/2024,High,Closed - Resolved
+3/26/2025,Error 412 triggered during over-the-air update to robotic welding units in Southeast territory.,3/31/2025,Urgent,Closed - Resolved
+12/13/2024,API returning null values for order tracking endpointbackend request timing out.,12/14/2024,Low,Closed
+9/26/2024,3D vision system under-picking SKUs from top shelvesimage recognition needs retraining.,9/28/2024,Medium,In Progress
+3/16/2025,Product loader mistiming drop-off with downstream conveyorsync pulse missing.,3/23/2025,High,Cancelled
+1/13/2025,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,1/18/2025,Low,On Hold
+6/7/2024,Customer unable to access remote diagnostics via mobile portalauthentication token not refreshing.,6/11/2024,High,Open
+3/28/2025,High-pitched tone coming from servo in model XR100engineering to review noise profile.,4/1/2025,Medium,Closed - Resolved
+9/29/2024,Customer reports robotic forklift overshooting dock alignmentcamera offset suspected.,10/8/2024,Urgent,On Hold
+2/10/2025,Load cell in robotic lifter reading zero under active payloadsuspected cable break.,2/17/2025,High,Closed
+1/12/2025,Customer service chatbot incorrectly routing requests about robotic arms to finance.,1/12/2025,Urgent,Cancelled
+6/9/2024,Support team reports double charge on robotic part restockSLA breach inquiry pending.,6/17/2024,Low,Open
+3/30/2025,AI co-pilot interface displaying outdated warehouse inventory despite live API integration.,3/30/2025,Medium,Closed - Resolved
+5/10/2024,Technician override mode triggering false alarmsUI miscommunication suspected.,5/11/2024,Medium,In Progress
+10/5/2024,Scheduled maintenance scripts not executing on east region serverslikely time zone mismatch.,10/14/2024,High,In Progress
+3/11/2025,Customer account flagged as inactive during quarterly synccontract still in force until Q4.,3/12/2025,High,Closed - Resolved
+3/22/2025,Repeated '404 device not found' error on support dashboardbelieved to be ID mismatch.,3/27/2025,Low,Closed
+9/14/2024,Remote shutdown of customer system initiated without proper command logpossible logging misfire.,9/18/2024,High,Cancelled
+12/29/2024,Temperature-controlled arm not holding cold-pack products steadilyactuator lag suspected.,1/1/2025,Urgent,On Hold
+5/25/2024,Unexpected stop condition triggered during pallet rewrap routineinvestigating fault codes.,5/25/2024,Medium,Open
+9/7/2024,Heat map of robotic traffic not loading for West Coast territoryvisualization component broken.,9/10/2024,Medium,Closed - Resolved
+1/15/2025,Support agent unable to replicate power cycling bug reported on new Roboweld Plus series.,1/23/2025,Medium,Open
+6/19/2024,Unable to reset robotic arm to home positionreset protocol fails at step 3.,6/28/2024,Urgent,Closed - Resolved
+12/23/2024,Autonomous floor units reporting repeated LIDAR misreads in low-light conditions.,12/29/2024,High,Closed - Resolved
+6/16/2024,Data not syncing across international locationstimezone setting discrepancies confirmed.,6/16/2024,Medium,Closed
+6/8/2024,Label printer on packing bot jamming intermittentlyhardware service request opened.,6/12/2024,Low,In Progress
+1/8/2025,Navigation system freezing mid-shiftpacket loss observed in Wi-Fi logs.,1/13/2025,High,Cancelled
+8/31/2024,Armature alignment reset required after shippingrequesting field calibration.,8/31/2024,Medium,On Hold
+11/6/2024,Discrepancy between scanned and delivered SKUspotential robotic misclassification event.,11/10/2024,High,Closed - Resolved
+12/11/2024,Night shift override not deactivating during scheduled switchlogic conflict in script.,12/18/2024,High,Cancelled
+4/17/2025,Latest patch rolled out to wrong robot model familyrollback request submitted.,4/17/2025,Urgent,Open
+5/28/2024,Voice command module failing to recognize commands with headset mic input.,5/29/2024,Low,In Progress
+2/22/2025,Battery drain accelerating on self-navigating picker botsclient requests hardware review.,2/26/2025,Medium,Closed - Resolved
+3/27/2025,Billing dashboard showing duplicate line items for SLA renewalneeds manual reconciliation.,3/31/2025,Medium,On Hold
+3/19/2025,Motion sensor fault in entry-level AGVsuspected electromagnetic interference.,3/25/2025,Medium,Closed
+4/9/2025,Downtime incorrectly logged as resolved in dashboardresolution timestamp error.,4/15/2025,High,Closed - Resolved
+8/21/2024,Return unit not accepting scanned QR codesoptical reader needs recalibration.,8/27/2024,High,Cancelled
+8/8/2024,Diagnostic tool unable to communicate with legacy hardwareadapter may be required.,8/13/2024,Urgent,Closed - Resolved
+2/11/2025,Inventory report mislabeling robotics model numbersSKU logic misfire.,2/17/2025,Low,Open
+11/24/2024,Picking robot skipping assigned aisle in optimization routemap index might be corrupted.,11/26/2024,Medium,In Progress
+5/15/2024,Client unable to archive closed support ticketspermission role misconfiguration.,5/15/2024,Low,On Hold
+5/9/2024,Task scheduler running duplicate jobs on dual-robot configurationdeadlock conditions observed.,5/11/2024,High,Closed
+9/29/2024,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,10/1/2024,Medium,Closed - Resolved
+11/27/2024,Feedback loop delay causing robotic palletizer to miss timing sync with conveyor belt.,12/6/2024,Urgent,Open
+8/17/2024,Customer states predictive maintenance alert was missedpossible alert suppression rule.,8/19/2024,High,In Progress
+5/13/2024,Temperature-controlled arm not holding cold-pack products steadilyactuator lag suspected.,5/15/2024,Medium,On Hold
+2/5/2025,Error 412 triggered during over-the-air update to robotic welding units in Southeast territory.,2/11/2025,High,Closed
+6/8/2024,Autonomous floor units reporting repeated LIDAR misreads in low-light conditions.,6/17/2024,High,Closed - Resolved
+8/1/2024,Battery health metrics not populating in regional dashboardtelemetry stream missing.,8/10/2024,Urgent,Cancelled
+11/12/2024,AI co-pilot interface displaying outdated warehouse inventory despite live API integration.,11/20/2024,Low,Closed
+10/5/2024,Return unit not accepting scanned QR codesoptical reader needs recalibration.,10/12/2024,Medium,In Progress
+5/12/2024,Support team reports double charge on robotic part restockSLA breach inquiry pending.,5/15/2024,High,On Hold
+3/9/2025,Delivery tracking API pushing duplicate status updatescausing client-side UI clutter.,3/16/2025,Low,Closed - Resolved
+1/27/2025,Firmware rollback initiated unintentionallyclient device now stuck in bootloader loop.,1/29/2025,High,Cancelled
+11/13/2024,Custom firmware deployment not stickingdevice reverts to factory version after reboot.,11/14/2024,Urgent,Closed - Resolved
+9/23/2024,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,10/1/2024,Medium,Open
+3/7/2025,Downtime incorrectly logged as resolved in dashboardresolution timestamp error.,3/17/2025,Medium,Closed
+1/7/2025,HR database not syncing with shift handoff bot schedulermissing employee record.,1/9/2025,Urgent,Cancelled
+10/27/2024,Temperature sensor in robotic soldering unit reading above safe operating range.,11/4/2024,Low,On Hold
+12/19/2024,Automated welding arm intermittently halts during high-heat cyclessuspected sensor calibration drift.,12/19/2024,Medium,Open
+11/14/2024,Data not syncing across international locationstimezone setting discrepancies confirmed.,11/20/2024,High,Closed - Resolved
+5/27/2024,Customer unable to access remote diagnostics via mobile portalauthentication token not refreshing.,5/28/2024,Medium,In Progress
+12/6/2024,Repeated '404 device not found' error on support dashboardbelieved to be ID mismatch.,12/7/2024,High,Closed - Resolved
+10/2/2024,Voice command module failing to recognize commands with headset mic input.,10/5/2024,High,Closed - Resolved
+8/23/2024,Scheduled maintenance scripts not executing on east region serverslikely time zone mismatch.,8/29/2024,High,Closed - Resolved
+6/3/2024,Inconsistent barcode scanning during inbound sortationrequesting diagnostic logs.,6/6/2024,Urgent,Open
+2/3/2025,Customer reports robotic forklift overshooting dock alignmentcamera offset suspected.,2/10/2025,Low,Closed
+11/13/2024,Support agent unable to replicate power cycling bug reported on new Roboweld Plus series.,11/14/2024,Medium,In Progress
+3/24/2025,Mobile control app crashing after recent OS updatecompatibility fix required.,4/1/2025,Medium,Cancelled
+5/16/2024,Service report PDF not attaching to customer CRM recordautomation flow broken.,5/17/2024,High,On Hold
+8/19/2024,API returning null values for order tracking endpointbackend request timing out.,8/19/2024,Low,On Hold
+3/19/2025,Robot arm #4 failed precision test during QAtolerance exceeds threshold by 0.04 mm.,3/25/2025,High,Open
+11/29/2024,Pick path optimization feature stuck in recalculating looplikely route matrix bug.,12/9/2024,Urgent,Closed - Resolved
+1/20/2025,Customer service chatbot incorrectly routing requests about robotic arms to finance.,1/25/2025,Medium,Closed - Resolved
+8/1/2024,System audit flagging unauthorized access attempt on robotics control API.,8/11/2024,Medium,Closed
+1/3/2025,Customer states predictive maintenance alert was missedpossible alert suppression rule.,1/8/2025,Low,In Progress
+7/2/2024,Customer account flagged as inactive during quarterly synccontract still in force until Q4.,7/8/2024,Medium,Cancelled
+9/1/2024,Heat map of robotic traffic not loading for West Coast territoryvisualization component broken.,9/8/2024,High,In Progress
+8/10/2024,Armature alignment reset required after shippingrequesting field calibration.,8/14/2024,Medium,Closed - Resolved
+7/3/2024,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,7/6/2024,High,On Hold
+1/7/2025,Discrepancy between scanned and delivered SKUspotential robotic misclassification event.,1/12/2025,Urgent,Closed
+7/27/2024,Issue syncing sales data from ERP into robotics supply chain dashboard.,8/5/2024,Medium,Cancelled
+2/3/2025,LED status indicator stuck in red despite system running normallyvisual false positive?,2/3/2025,Medium,Open
+10/26/2024,Overhead robotic crane misaligned after system updaterequesting recalibration walkthrough.,10/30/2024,High,Closed - Resolved
+5/15/2024,Billing dashboard showing duplicate line items for SLA renewalneeds manual reconciliation.,5/21/2024,High,In Progress
+11/2/2024,Feedback loop delay causing robotic palletizer to miss timing sync with conveyor belt.,11/6/2024,Urgent,On Hold
+8/27/2024,Routine maintenance tag not updating in system despite completionworkflow integration error.,9/1/2024,Low,Closed - Resolved
+11/22/2024,Unexpected stop condition triggered during pallet rewrap routineinvestigating fault codes.,11/26/2024,Urgent,Cancelled
+3/3/2025,Client unable to archive closed support ticketspermission role misconfiguration.,3/6/2025,Medium,Closed - Resolved
+8/3/2024,Night shift override not deactivating during scheduled switchlogic conflict in script.,8/5/2024,High,Open
+3/19/2025,Unable to reset robotic arm to home positionreset protocol fails at step 3.,3/21/2025,Low,Closed
+1/21/2025,User permissions incorrectly assignedadmin access granted to technician role.,1/28/2025,High,Closed
+5/7/2024,High-pitched tone coming from servo in model XR100engineering to review noise profile.,5/8/2024,Medium,In Progress
+3/12/2025,Wireless module upgrade caused latency spikepossible firmware mismatch.,3/16/2025,High,Cancelled
+9/11/2024,Latest patch rolled out to wrong robot model familyrollback request submitted.,9/16/2024,Low,On Hold
+7/13/2024,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,7/22/2024,High,Closed - Resolved
+11/27/2024,Unexpected motor vibration on high-speed units deployed in humid environments.,12/7/2024,Medium,Closed - Resolved
+10/4/2024,Motion sensor fault in entry-level AGVsuspected electromagnetic interference.,10/9/2024,Urgent,Open
+4/26/2024,Customer unable to submit service ticket via mobile portalUI issue on latest Android version.,5/1/2024,Medium,Closed
+9/18/2024,Task scheduler running duplicate jobs on dual-robot configurationdeadlock conditions observed.,9/18/2024,Medium,Cancelled
+6/6/2024,Remote shutdown of customer system initiated without proper command logpossible logging misfire.,6/10/2024,Medium,Open
+6/3/2024,Order #98234 missing firmware version 5.3 for XYZ Series actuatorrequires urgent patch.,6/10/2024,High,Closed - Resolved
+8/6/2024,Technician override mode triggering false alarmsUI miscommunication suspected.,8/14/2024,High,In Progress
+6/19/2024,3D vision system under-picking SKUs from top shelvesimage recognition needs retraining.,6/21/2024,Urgent,Closed - Resolved
+12/26/2024,Product loader mistiming drop-off with downstream conveyorsync pulse missing.,1/5/2025,Low,On Hold
+4/21/2025,Diagnostic tool unable to communicate with legacy hardwareadapter may be required.,4/22/2025,Urgent,In Progress
+1/5/2025,New actuator exhibiting slow response in colder environmentsmaterial tolerance concern.,1/11/2025,Low,Cancelled
+7/9/2024,License expiration alerts not appearing for client adminmonitoring system inactive.,7/16/2024,Medium,On Hold
+7/10/2024,Navigation system freezing mid-shiftpacket loss observed in Wi-Fi logs.,7/15/2024,High,Closed - Resolved
+4/27/2024,Battery drain accelerating on self-navigating picker botsclient requests hardware review.,4/30/2024,Medium,Closed - Resolved
+12/11/2024,Label printer on packing bot jamming intermittentlyhardware service request opened.,12/13/2024,High,Open
+4/20/2025,Picking robot skipping assigned aisle in optimization routemap index might be corrupted.,4/23/2025,High,Closed
+1/19/2025,Load cell in robotic lifter reading zero under active payloadsuspected cable break.,1/20/2025,Low,Cancelled
+6/3/2024,Error 7002: No response from servo motor controller on axis Ypossible hardware failure.,6/5/2024,Medium,On Hold
+9/8/2024,Customer reports excessive heat on robotics control panelcooling fan test requested.,9/18/2024,Urgent,Open
+8/28/2024,Inventory report mislabeling robotics model numbersSKU logic misfire.,9/1/2024,High,Closed - Resolved
+11/7/2024,Idle time tracking for warehouse units not logging correctlytelemetry data gap.,11/9/2024,Medium,Closed - Resolved
+4/26/2024,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,5/1/2024,High,Closed
+7/13/2024,Robot arm #4 failed precision test during QAtolerance exceeds threshold by 0.04 mm.,7/16/2024,Medium,In Progress
+1/28/2025,Customer reports robotic forklift overshooting dock alignmentcamera offset suspected.,2/3/2025,Low,Cancelled
+10/23/2024,Downtime incorrectly logged as resolved in dashboardresolution timestamp error.,10/25/2024,High,Closed - Resolved
+3/29/2025,Customer unable to access remote diagnostics via mobile portalauthentication token not refreshing.,3/29/2025,Medium,Open
+7/1/2024,Motion sensor fault in entry-level AGVsuspected electromagnetic interference.,7/1/2024,Urgent,In Progress
+12/21/2024,Custom firmware deployment not stickingdevice reverts to factory version after reboot.,12/27/2024,Low,On Hold
+8/8/2024,Service report PDF not attaching to customer CRM recordautomation flow broken.,8/18/2024,High,Closed
+7/28/2024,HR database not syncing with shift handoff bot schedulermissing employee record.,8/3/2024,Medium,Closed - Resolved
+2/16/2025,AI co-pilot interface displaying outdated warehouse inventory despite live API integration.,2/19/2025,Urgent,On Hold
+8/16/2024,Temperature-controlled arm not holding cold-pack products steadilyactuator lag suspected.,8/22/2024,Medium,Closed - Resolved
+6/26/2024,Armature alignment reset required after shippingrequesting field calibration.,6/29/2024,High,Closed - Resolved
+6/13/2024,Voice command module failing to recognize commands with headset mic input.,6/19/2024,Urgent,Open
+8/19/2024,Order #98234 missing firmware version 5.3 for XYZ Series actuatorrequires urgent patch.,8/22/2024,Low,Closed
+10/24/2024,API returning null values for order tracking endpointbackend request timing out.,10/26/2024,Medium,In Progress
+5/8/2024,Data not syncing across international locationstimezone setting discrepancies confirmed.,5/14/2024,Medium,Cancelled
+7/28/2024,Discrepancy between scanned and delivered SKUspotential robotic misclassification event.,8/6/2024,High,Cancelled
+3/25/2025,Battery drain accelerating on self-navigating picker botsclient requests hardware review.,3/29/2025,High,On Hold
+3/31/2025,High-pitched tone coming from servo in model XR100engineering to review noise profile.,4/4/2025,High,Open
+8/24/2024,Customer account flagged as inactive during quarterly synccontract still in force until Q4.,8/30/2024,Medium,Closed - Resolved
+1/25/2025,LED status indicator stuck in red despite system running normallyvisual false positive?,2/1/2025,High,Closed - Resolved
+11/10/2024,User permissions incorrectly assignedadmin access granted to technician role.,11/18/2024,Low,Closed
+9/26/2024,Scheduled maintenance scripts not executing on east region serverslikely time zone mismatch.,10/3/2024,Medium,In Progress
+5/7/2024,Client unable to archive closed support ticketspermission role misconfiguration.,5/11/2024,Urgent,Open
+4/8/2025,Unexpected motor vibration on high-speed units deployed in humid environments.,4/14/2025,Urgent,In Progress
+6/29/2024,Inventory report mislabeling robotics model numbersSKU logic misfire.,7/9/2024,Low,On Hold
+3/12/2025,Wireless module upgrade caused latency spikepossible firmware mismatch.,3/16/2025,Medium,Closed
+7/29/2024,Repeated '404 device not found' error on support dashboardbelieved to be ID mismatch.,8/2/2024,High,Closed - Resolved
+1/9/2025,Overhead robotic crane misaligned after system updaterequesting recalibration walkthrough.,1/13/2025,Medium,Cancelled
+1/28/2025,Autonomous floor units reporting repeated LIDAR misreads in low-light conditions.,2/7/2025,High,Closed - Resolved
+9/18/2024,Feedback loop delay causing robotic palletizer to miss timing sync with conveyor belt.,9/18/2024,Low,Closed
+6/27/2024,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,7/1/2024,Medium,In Progress
+12/3/2024,System audit flagging unauthorized access attempt on robotics control API.,12/4/2024,Medium,Cancelled
+5/3/2024,Customer unable to submit service ticket via mobile portalUI issue on latest Android version.,5/12/2024,High,On Hold
+2/22/2025,Error 7002: No response from servo motor controller on axis Ypossible hardware failure.,3/3/2025,High,Closed - Resolved
+6/29/2024,3D vision system under-picking SKUs from top shelvesimage recognition needs retraining.,7/2/2024,Urgent,Closed - Resolved
+4/8/2025,Inconsistent barcode scanning during inbound sortationrequesting diagnostic logs.,4/10/2025,Urgent,Open
+11/26/2024,Support agent unable to replicate power cycling bug reported on new Roboweld Plus series.,12/3/2024,Low,Closed - Resolved
+9/27/2024,Issue syncing sales data from ERP into robotics supply chain dashboard.,10/1/2024,Medium,Closed
+4/24/2024,Idle time tracking for warehouse units not logging correctlytelemetry data gap.,5/3/2024,High,Cancelled
+10/10/2024,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,10/12/2024,Medium,On Hold
+3/29/2025,Delivery tracking API pushing duplicate status updatescausing client-side UI clutter.,3/29/2025,High,Open
+9/7/2024,Load cell in robotic lifter reading zero under active payloadsuspected cable break.,9/12/2024,Urgent,Closed - Resolved
+11/21/2024,Remote shutdown of customer system initiated without proper command logpossible logging misfire.,11/28/2024,Medium,In Progress
+10/16/2024,License expiration alerts not appearing for client adminmonitoring system inactive.,10/18/2024,High,On Hold
+12/3/2024,Firmware rollback initiated unintentionallyclient device now stuck in bootloader loop.,12/12/2024,Low,Open
+5/1/2024,Customer states predictive maintenance alert was missedpossible alert suppression rule.,5/2/2024,High,Closed - Resolved
+4/26/2024,Picking robot skipping assigned aisle in optimization routemap index might be corrupted.,5/3/2024,Medium,In Progress
+1/8/2025,Heat map of robotic traffic not loading for West Coast territoryvisualization component broken.,1/17/2025,Medium,Closed - Resolved
+8/4/2024,Latest patch rolled out to wrong robot model familyrollback request submitted.,8/13/2024,Urgent,Closed
+3/16/2025,Unable to reset robotic arm to home positionreset protocol fails at step 3.,3/26/2025,High,Cancelled
+5/29/2024,Technician override mode triggering false alarmsUI miscommunication suspected.,5/30/2024,Medium,Closed
+1/1/2025,Routine maintenance tag not updating in system despite completionworkflow integration error.,1/7/2025,High,In Progress
+8/19/2024,Label printer on packing bot jamming intermittentlyhardware service request opened.,8/23/2024,Low,Cancelled
+4/14/2025,Task scheduler running duplicate jobs on dual-robot configurationdeadlock conditions observed.,4/17/2025,High,On Hold
+2/23/2025,Temperature sensor in robotic soldering unit reading above safe operating range.,2/27/2025,High,Closed - Resolved
+8/18/2024,Automated welding arm intermittently halts during high-heat cyclessuspected sensor calibration drift.,8/21/2024,Urgent,Closed - Resolved
+6/12/2024,Unexpected stop condition triggered during pallet rewrap routineinvestigating fault codes.,6/22/2024,Low,Open
+6/1/2024,New actuator exhibiting slow response in colder environmentsmaterial tolerance concern.,6/9/2024,Medium,Closed - Resolved
+9/20/2024,Customer service chatbot incorrectly routing requests about robotic arms to finance.,9/22/2024,Medium,Open
+1/11/2025,Navigation system freezing mid-shiftpacket loss observed in Wi-Fi logs.,1/13/2025,Urgent,In Progress
+9/12/2024,Mobile control app crashing after recent OS updatecompatibility fix required.,9/22/2024,High,On Hold
+7/31/2024,Pick path optimization feature stuck in recalculating looplikely route matrix bug.,8/1/2024,Medium,Closed
+3/27/2025,Support team reports double charge on robotic part restockSLA breach inquiry pending.,4/5/2025,Low,Closed - Resolved
+7/17/2024,Customer reports excessive heat on robotics control panelcooling fan test requested.,7/22/2024,High,Cancelled
+12/1/2024,Diagnostic tool unable to communicate with legacy hardwareadapter may be required.,12/10/2024,Medium,Closed - Resolved
+5/21/2024,Error 412 triggered during over-the-air update to robotic welding units in Southeast territory.,5/26/2024,Urgent,Cancelled
+11/4/2024,Billing dashboard showing duplicate line items for SLA renewalneeds manual reconciliation.,11/13/2024,Low,Open
+4/21/2025,Battery health metrics not populating in regional dashboardtelemetry stream missing.,4/28/2025,Medium,In Progress
+10/27/2024,Product loader mistiming drop-off with downstream conveyorsync pulse missing.,11/4/2024,High,Closed - Resolved
+3/28/2025,Night shift override not deactivating during scheduled switchlogic conflict in script.,3/30/2025,Medium,On Hold
+8/16/2024,Return unit not accepting scanned QR codesoptical reader needs recalibration.,8/17/2024,High,Closed
+5/29/2024,System audit flagging unauthorized access attempt on robotics control API.,5/29/2024,High,On Hold
+9/10/2024,Support agent unable to replicate power cycling bug reported on new Roboweld Plus series.,9/17/2024,Medium,Closed
+5/1/2024,Firmware rollback initiated unintentionallyclient device now stuck in bootloader loop.,5/6/2024,Urgent,Cancelled
+10/1/2024,New actuator exhibiting slow response in colder environmentsmaterial tolerance concern.,10/2/2024,High,Open
+10/30/2024,Automated welding arm intermittently halts during high-heat cyclessuspected sensor calibration drift.,11/4/2024,Medium,Closed - Resolved
+10/7/2024,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,10/8/2024,Low,In Progress
+5/30/2024,Feedback loop delay causing robotic palletizer to miss timing sync with conveyor belt.,6/2/2024,Medium,Closed - Resolved
+10/8/2024,Customer reports robotic forklift overshooting dock alignmentcamera offset suspected.,10/8/2024,High,Open
+12/30/2024,User permissions incorrectly assignedadmin access granted to technician role.,1/2/2025,Low,Closed - Resolved
+9/14/2024,Navigation system freezing mid-shiftpacket loss observed in Wi-Fi logs.,9/20/2024,High,In Progress
+4/19/2025,Voice command module failing to recognize commands with headset mic input.,4/25/2025,Medium,Closed - Resolved
+1/11/2025,Error 7002: No response from servo motor controller on axis Ypossible hardware failure.,1/19/2025,Urgent,Closed
+4/27/2024,LED status indicator stuck in red despite system running normallyvisual false positive?,5/7/2024,Medium,Cancelled
+8/20/2024,Customer service chatbot incorrectly routing requests about robotic arms to finance.,8/28/2024,High,On Hold
+1/29/2025,Error 412 triggered during over-the-air update to robotic welding units in Southeast territory.,2/6/2025,Urgent,Closed - Resolved
+11/9/2024,Remote shutdown of customer system initiated without proper command logpossible logging misfire.,11/12/2024,Low,Open
+1/26/2025,Data not syncing across international locationstimezone setting discrepancies confirmed.,1/26/2025,Medium,Closed
+5/8/2024,Latest patch rolled out to wrong robot model familyrollback request submitted.,5/8/2024,High,In Progress
+8/22/2024,Technician override mode triggering false alarmsUI miscommunication suspected.,8/27/2024,Low,On Hold
+1/23/2025,Unexpected stop condition triggered during pallet rewrap routineinvestigating fault codes.,1/25/2025,Medium,Closed - Resolved
+7/18/2024,Night shift override not deactivating during scheduled switchlogic conflict in script.,7/23/2024,Urgent,Cancelled
+8/29/2024,Billing dashboard showing duplicate line items for SLA renewalneeds manual reconciliation.,9/3/2024,High,On Hold
+4/12/2025,Customer states predictive maintenance alert was missedpossible alert suppression rule.,4/21/2025,Medium,Closed
+10/12/2024,Customer unable to access remote diagnostics via mobile portalauthentication token not refreshing.,10/12/2024,High,Closed - Resolved
+8/4/2024,Mobile control app crashing after recent OS updatecompatibility fix required.,8/12/2024,High,Cancelled
+8/9/2024,Downtime incorrectly logged as resolved in dashboardresolution timestamp error.,8/11/2024,Urgent,Open
+7/3/2024,Order #98234 missing firmware version 5.3 for XYZ Series actuatorrequires urgent patch.,7/8/2024,Medium,In Progress
+1/25/2025,Heat map of robotic traffic not loading for West Coast territoryvisualization component broken.,1/28/2025,Medium,Closed - Resolved
+3/20/2025,Repeated '404 device not found' error on support dashboardbelieved to be ID mismatch.,3/23/2025,High,Cancelled
+5/29/2024,Battery drain accelerating on self-navigating picker botsclient requests hardware review.,5/31/2024,Low,Closed - Resolved
+1/15/2025,Pick path optimization feature stuck in recalculating looplikely route matrix bug.,1/19/2025,High,Open
+11/13/2024,Customer unable to submit service ticket via mobile portalUI issue on latest Android version.,11/21/2024,Low,In Progress
+8/24/2024,Support team reports double charge on robotic part restockSLA breach inquiry pending.,9/1/2024,High,On Hold
+8/6/2024,Task scheduler running duplicate jobs on dual-robot configurationdeadlock conditions observed.,8/8/2024,Urgent,Closed
+7/1/2024,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,7/10/2024,Medium,Closed - Resolved
+10/14/2024,Motion sensor fault in entry-level AGVsuspected electromagnetic interference.,10/23/2024,Medium,Open
+3/26/2025,Diagnostic tool unable to communicate with legacy hardwareadapter may be required.,3/30/2025,Urgent,Closed
+8/2/2024,Scheduled maintenance scripts not executing on east region serverslikely time zone mismatch.,8/8/2024,Medium,In Progress
+4/28/2024,HR database not syncing with shift handoff bot schedulermissing employee record.,5/4/2024,High,On Hold
+7/16/2024,Picking robot skipping assigned aisle in optimization routemap index might be corrupted.,7/19/2024,Low,Closed - Resolved
+5/25/2024,Inconsistent barcode scanning during inbound sortationrequesting diagnostic logs.,6/2/2024,High,Cancelled
+9/8/2024,Wireless module upgrade caused latency spikepossible firmware mismatch.,9/18/2024,Medium,Closed - Resolved
+2/2/2025,Custom firmware deployment not stickingdevice reverts to factory version after reboot.,2/12/2025,Urgent,Closed - Resolved
+7/23/2024,Unexpected motor vibration on high-speed units deployed in humid environments.,7/30/2024,Medium,Open
+8/27/2024,Idle time tracking for warehouse units not logging correctlytelemetry data gap.,8/29/2024,Medium,In Progress
+11/13/2024,AI co-pilot interface displaying outdated warehouse inventory despite live API integration.,11/16/2024,High,On Hold
+9/30/2024,Product loader mistiming drop-off with downstream conveyorsync pulse missing.,10/8/2024,Low,Closed
+4/1/2025,Unable to reset robotic arm to home positionreset protocol fails at step 3.,4/11/2025,High,Closed - Resolved
+3/11/2025,Service report PDF not attaching to customer CRM recordautomation flow broken.,3/14/2025,High,Cancelled
+12/3/2024,Autonomous floor units reporting repeated LIDAR misreads in low-light conditions.,12/7/2024,Medium,Closed - Resolved
+7/14/2024,Robot arm #4 failed precision test during QAtolerance exceeds threshold by 0.04 mm.,7/24/2024,High,Closed
+5/2/2024,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,5/9/2024,Low,Cancelled
+9/13/2024,Inventory report mislabeling robotics model numbersSKU logic misfire.,9/17/2024,Medium,On Hold
+3/31/2025,Label printer on packing bot jamming intermittentlyhardware service request opened.,4/4/2025,Urgent,Open
+4/17/2025,Armature alignment reset required after shippingrequesting field calibration.,4/26/2025,Medium,Closed - Resolved
+12/28/2024,Issue syncing sales data from ERP into robotics supply chain dashboard.,1/3/2025,High,In Progress
+11/16/2024,Overhead robotic crane misaligned after system updaterequesting recalibration walkthrough.,11/21/2024,Urgent,In Progress
+11/14/2024,License expiration alerts not appearing for client adminmonitoring system inactive.,11/18/2024,Low,Closed - Resolved
+7/24/2024,High-pitched tone coming from servo in model XR100engineering to review noise profile.,7/25/2024,Medium,On Hold
+8/21/2024,Load cell in robotic lifter reading zero under active payloadsuspected cable break.,8/24/2024,High,Closed
+4/14/2025,Return unit not accepting scanned QR codesoptical reader needs recalibration.,4/24/2025,Medium,Closed - Resolved
+5/15/2024,Battery health metrics not populating in regional dashboardtelemetry stream missing.,5/17/2024,Medium,Cancelled
+6/30/2024,Discrepancy between scanned and delivered SKUspotential robotic misclassification event.,7/9/2024,High,Open
+8/19/2024,Routine maintenance tag not updating in system despite completionworkflow integration error.,8/28/2024,High,Cancelled
+5/3/2024,Customer account flagged as inactive during quarterly synccontract still in force until Q4.,5/8/2024,Urgent,On Hold
+10/12/2024,Customer reports excessive heat on robotics control panelcooling fan test requested.,10/13/2024,Low,Closed - Resolved
+7/17/2024,Temperature-controlled arm not holding cold-pack products steadilyactuator lag suspected.,7/21/2024,Medium,Closed - Resolved
+6/23/2024,Client unable to archive closed support ticketspermission role misconfiguration.,6/26/2024,Medium,Open
+10/8/2024,Temperature sensor in robotic soldering unit reading above safe operating range.,10/15/2024,High,Closed
+11/27/2024,API returning null values for order tracking endpointbackend request timing out.,12/4/2024,Low,In Progress
+1/15/2025,3D vision system under-picking SKUs from top shelvesimage recognition needs retraining.,1/20/2025,High,Closed - Resolved
+8/7/2024,Delivery tracking API pushing duplicate status updatescausing client-side UI clutter.,8/16/2024,Urgent,On Hold
+9/16/2024,Return unit not accepting scanned QR codesoptical reader needs recalibration.,9/24/2024,Medium,Closed
+8/27/2024,System audit flagging unauthorized access attempt on robotics control API.,9/3/2024,High,Cancelled
+11/4/2024,Picking robot skipping assigned aisle in optimization routemap index might be corrupted.,11/13/2024,Urgent,Open
+10/30/2024,Customer unable to access remote diagnostics via mobile portalauthentication token not refreshing.,10/31/2024,Low,Closed - Resolved
+1/19/2025,Issue syncing sales data from ERP into robotics supply chain dashboard.,1/23/2025,Medium,In Progress
+10/17/2024,Load cell in robotic lifter reading zero under active payloadsuspected cable break.,10/24/2024,High,Closed - Resolved
+10/28/2024,Robot arm #4 failed precision test during QAtolerance exceeds threshold by 0.04 mm.,11/4/2024,High,Open
+5/24/2024,Scheduled maintenance scripts not executing on east region serverslikely time zone mismatch.,5/30/2024,Low,In Progress
+7/28/2024,Navigation system freezing mid-shiftpacket loss observed in Wi-Fi logs.,7/31/2024,High,On Hold
+5/7/2024,Unexpected motor vibration on high-speed units deployed in humid environments.,5/8/2024,Medium,Closed
+1/28/2025,Remote shutdown of customer system initiated without proper command logpossible logging misfire.,2/1/2025,Urgent,Closed - Resolved
+9/1/2024,Routine maintenance tag not updating in system despite completionworkflow integration error.,9/8/2024,Medium,Cancelled
+6/27/2024,Support team reports double charge on robotic part restockSLA breach inquiry pending.,7/2/2024,Medium,Closed - Resolved
+9/15/2024,AI co-pilot interface displaying outdated warehouse inventory despite live API integration.,9/15/2024,High,In Progress
+11/4/2024,License expiration alerts not appearing for client adminmonitoring system inactive.,11/9/2024,High,Closed - Resolved
+2/6/2025,Unexpected stop condition triggered during pallet rewrap routineinvestigating fault codes.,2/6/2025,Urgent,On Hold
+6/4/2024,Night shift override not deactivating during scheduled switchlogic conflict in script.,6/10/2024,Low,Closed
+1/2/2025,API returning null values for order tracking endpointbackend request timing out.,1/4/2025,Medium,Cancelled
+10/22/2024,HR database not syncing with shift handoff bot schedulermissing employee record.,10/22/2024,High,Open
+7/5/2024,Support agent unable to replicate power cycling bug reported on new Roboweld Plus series.,7/14/2024,Medium,Closed
+12/11/2024,Downtime incorrectly logged as resolved in dashboardresolution timestamp error.,12/17/2024,Urgent,Cancelled
+7/29/2024,Customer reports excessive heat on robotics control panelcooling fan test requested.,8/7/2024,High,On Hold
+9/13/2024,High-pitched tone coming from servo in model XR100engineering to review noise profile.,9/20/2024,Medium,Open
+8/11/2024,Feedback loop delay causing robotic palletizer to miss timing sync with conveyor belt.,8/13/2024,Low,Closed - Resolved
+1/19/2025,Heat map of robotic traffic not loading for West Coast territoryvisualization component broken.,1/22/2025,Medium,In Progress
+2/17/2025,Autonomous floor units reporting repeated LIDAR misreads in low-light conditions.,2/18/2025,Urgent,Closed - Resolved
+5/21/2024,Wireless module upgrade caused latency spikepossible firmware mismatch.,5/21/2024,High,Closed
+2/2/2025,Voice command module failing to recognize commands with headset mic input.,2/4/2025,Medium,Closed - Resolved
+11/14/2024,Inconsistent barcode scanning during inbound sortationrequesting diagnostic logs.,11/20/2024,High,Cancelled
+9/11/2024,3D vision system under-picking SKUs from top shelvesimage recognition needs retraining.,9/16/2024,Low,Closed - Resolved
+3/24/2025,Overhead robotic crane misaligned after system updaterequesting recalibration walkthrough.,4/1/2025,Low,Open
+8/9/2024,Data not syncing across international locationstimezone setting discrepancies confirmed.,8/13/2024,Medium,In Progress
+6/18/2024,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,6/28/2024,Medium,On Hold
+8/18/2024,Diagnostic tool unable to communicate with legacy hardwareadapter may be required.,8/20/2024,High,Cancelled
+6/14/2024,New actuator exhibiting slow response in colder environmentsmaterial tolerance concern.,6/21/2024,High,Open
+9/18/2024,Technician override mode triggering false alarmsUI miscommunication suspected.,9/20/2024,Urgent,In Progress
+7/7/2024,Label printer on packing bot jamming intermittentlyhardware service request opened.,7/16/2024,Low,Closed - Resolved
+8/20/2024,Product loader mistiming drop-off with downstream conveyorsync pulse missing.,8/23/2024,High,On Hold
+9/1/2024,Temperature-controlled arm not holding cold-pack products steadilyactuator lag suspected.,9/10/2024,Medium,Closed
+7/22/2024,Customer account flagged as inactive during quarterly synccontract still in force until Q4.,7/25/2024,Urgent,Closed - Resolved
+2/6/2025,Temperature sensor in robotic soldering unit reading above safe operating range.,2/11/2025,Medium,Closed - Resolved
+12/26/2024,Customer service chatbot incorrectly routing requests about robotic arms to finance.,1/4/2025,High,Closed - Resolved
+8/6/2024,Client unable to archive closed support ticketspermission role misconfiguration.,8/8/2024,Medium,Closed
+11/24/2024,Mobile control app crashing after recent OS updatecompatibility fix required.,11/29/2024,High,In Progress
+11/26/2024,Automated welding arm intermittently halts during high-heat cyclessuspected sensor calibration drift.,12/1/2024,High,Cancelled
+2/21/2025,Battery health metrics not populating in regional dashboardtelemetry stream missing.,2/27/2025,Urgent,On Hold
+6/4/2024,Discrepancy between scanned and delivered SKUspotential robotic misclassification event.,6/13/2024,Low,Open
+11/20/2024,Pick path optimization feature stuck in recalculating looplikely route matrix bug.,11/20/2024,Medium,Cancelled
+4/26/2024,Error 7002: No response from servo motor controller on axis Ypossible hardware failure.,4/29/2024,High,On Hold
+7/6/2024,Error 412 triggered during over-the-air update to robotic welding units in Southeast territory.,7/10/2024,Medium,Open
+12/3/2024,LED status indicator stuck in red despite system running normallyvisual false positive?,12/11/2024,High,Closed - Resolved
+4/14/2025,Billing dashboard showing duplicate line items for SLA renewalneeds manual reconciliation.,4/19/2025,Low,Closed - Resolved
+4/28/2024,Firmware rollback initiated unintentionallyclient device now stuck in bootloader loop.,5/2/2024,Medium,Closed
+7/31/2024,Customer unable to submit service ticket via mobile portalUI issue on latest Android version.,8/7/2024,Urgent,In Progress
+2/10/2025,Custom firmware deployment not stickingdevice reverts to factory version after reboot.,2/18/2025,High,Closed - Resolved
+11/6/2024,Idle time tracking for warehouse units not logging correctlytelemetry data gap.,11/12/2024,Medium,Closed
+2/10/2025,Unable to reset robotic arm to home positionreset protocol fails at step 3.,2/13/2025,Low,Cancelled
+2/3/2025,Battery drain accelerating on self-navigating picker botsclient requests hardware review.,2/4/2025,High,On Hold
+11/11/2024,User permissions incorrectly assignedadmin access granted to technician role.,11/20/2024,Medium,Open
+10/22/2024,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,10/28/2024,Urgent,Closed - Resolved
+10/26/2024,Customer states predictive maintenance alert was missedpossible alert suppression rule.,10/30/2024,Urgent,In Progress
+12/21/2024,Inventory report mislabeling robotics model numbersSKU logic misfire.,12/22/2024,Low,Closed - Resolved
+1/8/2025,Order #98234 missing firmware version 5.3 for XYZ Series actuatorrequires urgent patch.,1/14/2025,Medium,Closed
+9/28/2024,Armature alignment reset required after shippingrequesting field calibration.,10/1/2024,High,In Progress
+4/15/2025,Customer reports robotic forklift overshooting dock alignmentcamera offset suspected.,4/25/2025,Medium,Cancelled
+11/15/2024,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,11/23/2024,High,On Hold
+3/18/2025,Task scheduler running duplicate jobs on dual-robot configurationdeadlock conditions observed.,3/26/2025,Medium,Open
+2/8/2025,Latest patch rolled out to wrong robot model familyrollback request submitted.,2/10/2025,Medium,Closed - Resolved
+11/10/2024,Repeated '404 device not found' error on support dashboardbelieved to be ID mismatch.,11/10/2024,High,On Hold
+10/10/2024,Delivery tracking API pushing duplicate status updatescausing client-side UI clutter.,10/12/2024,High,Closed
+6/16/2024,Service report PDF not attaching to customer CRM recordautomation flow broken.,6/20/2024,Urgent,Closed - Resolved
+3/31/2025,Motion sensor fault in entry-level AGVsuspected electromagnetic interference.,4/3/2025,Low,Cancelled
+9/15/2024,Load cell in robotic lifter reading zero under active payloadsuspected cable break.,9/24/2024,Urgent,Open
+11/24/2024,Customer states predictive maintenance alert was missedpossible alert suppression rule.,11/25/2024,Low,In Progress
+7/26/2024,Task scheduler running duplicate jobs on dual-robot configurationdeadlock conditions observed.,7/30/2024,Medium,Closed - Resolved
+12/17/2024,Autonomous floor units reporting repeated LIDAR misreads in low-light conditions.,12/24/2024,High,Closed
+11/12/2024,Data not syncing across international locationstimezone setting discrepancies confirmed.,11/13/2024,Medium,Closed - Resolved
+6/4/2024,Billing dashboard showing duplicate line items for SLA renewalneeds manual reconciliation.,6/6/2024,High,Cancelled
+8/9/2024,Scheduled maintenance scripts not executing on east region serverslikely time zone mismatch.,8/16/2024,Medium,Closed - Resolved
+9/21/2024,Customer reports robotic forklift overshooting dock alignmentcamera offset suspected.,9/22/2024,Urgent,Open
+5/24/2024,Unable to reset robotic arm to home positionreset protocol fails at step 3.,5/26/2024,High,In Progress
+1/29/2025,Error 7002: No response from servo motor controller on axis Ypossible hardware failure.,2/5/2025,Medium,On Hold
+1/24/2025,Customer reports excessive heat on robotics control panelcooling fan test requested.,1/28/2025,High,Closed
+6/5/2024,License expiration alerts not appearing for client adminmonitoring system inactive.,6/13/2024,Low,In Progress
+1/24/2025,System audit flagging unauthorized access attempt on robotics control API.,2/2/2025,Urgent,Cancelled
+12/11/2024,New actuator exhibiting slow response in colder environmentsmaterial tolerance concern.,12/14/2024,High,On Hold
+7/23/2024,LED status indicator stuck in red despite system running normallyvisual false positive?,7/25/2024,Medium,Closed - Resolved
+5/9/2024,Voice command module failing to recognize commands with headset mic input.,5/15/2024,Low,Closed - Resolved
+1/21/2025,Robot arm #4 failed precision test during QAtolerance exceeds threshold by 0.04 mm.,1/24/2025,High,Open
+6/21/2024,Diagnostic tool unable to communicate with legacy hardwareadapter may be required.,6/27/2024,Medium,Closed
+7/21/2024,Customer unable to submit service ticket via mobile portalUI issue on latest Android version.,7/24/2024,Urgent,In Progress
+3/5/2025,Label printer on packing bot jamming intermittentlyhardware service request opened.,3/8/2025,Low,Cancelled
+6/12/2024,Client unable to archive closed support ticketspermission role misconfiguration.,6/12/2024,Medium,On Hold
+7/11/2024,Error 412 triggered during over-the-air update to robotic welding units in Southeast territory.,7/11/2024,Medium,Open
+8/11/2024,Discrepancy between scanned and delivered SKUspotential robotic misclassification event.,8/18/2024,High,Closed - Resolved
+12/3/2024,Support agent unable to replicate power cycling bug reported on new Roboweld Plus series.,12/6/2024,High,Closed - Resolved
+7/24/2024,Idle time tracking for warehouse units not logging correctlytelemetry data gap.,8/3/2024,High,Closed
+5/27/2024,AI co-pilot interface displaying outdated warehouse inventory despite live API integration.,5/31/2024,Urgent,Closed - Resolved
+3/11/2025,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,3/13/2025,Low,Cancelled
+12/24/2024,Technician override mode triggering false alarmsUI miscommunication suspected.,1/2/2025,Medium,Closed - Resolved
+10/11/2024,User permissions incorrectly assignedadmin access granted to technician role.,10/12/2024,Medium,Open
+4/17/2025,Downtime incorrectly logged as resolved in dashboardresolution timestamp error.,4/24/2025,High,In Progress
+2/14/2025,Automated welding arm intermittently halts during high-heat cyclessuspected sensor calibration drift.,2/17/2025,Medium,On Hold
+6/7/2024,Firmware rollback initiated unintentionallyclient device now stuck in bootloader loop.,6/15/2024,Medium,On Hold
+8/29/2024,Routine maintenance tag not updating in system despite completionworkflow integration error.,9/3/2024,High,Open
+11/3/2024,Inventory report mislabeling robotics model numbersSKU logic misfire.,11/11/2024,High,Closed - Resolved
+9/22/2024,Battery health metrics not populating in regional dashboardtelemetry stream missing.,9/30/2024,Urgent,In Progress
+1/25/2025,Support team reports double charge on robotic part restockSLA breach inquiry pending.,1/29/2025,Low,Closed - Resolved
+12/27/2024,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,12/31/2024,Medium,Closed
+4/23/2024,Unexpected motor vibration on high-speed units deployed in humid environments.,4/24/2024,High,Cancelled
+4/2/2025,Temperature sensor in robotic soldering unit reading above safe operating range.,4/4/2025,Urgent,In Progress
+1/5/2025,Motion sensor fault in entry-level AGVsuspected electromagnetic interference.,1/7/2025,Low,On Hold
+7/18/2024,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,7/28/2024,Medium,Closed - Resolved
+1/5/2025,Unexpected stop condition triggered during pallet rewrap routineinvestigating fault codes.,1/10/2025,High,Cancelled
+10/15/2024,Customer unable to access remote diagnostics via mobile portalauthentication token not refreshing.,10/25/2024,High,Closed - Resolved
+2/10/2025,Repeated '404 device not found' error on support dashboardbelieved to be ID mismatch.,2/15/2025,High,Open
+6/1/2024,Remote shutdown of customer system initiated without proper command logpossible logging misfire.,6/10/2024,Urgent,Closed
+4/1/2025,Customer service chatbot incorrectly routing requests about robotic arms to finance.,4/6/2025,Low,Closed - Resolved
+3/23/2025,Inconsistent barcode scanning during inbound sortationrequesting diagnostic logs.,3/23/2025,Medium,In Progress
+9/22/2024,Latest patch rolled out to wrong robot model familyrollback request submitted.,9/22/2024,Medium,Closed - Resolved
+7/15/2024,API returning null values for order tracking endpointbackend request timing out.,7/18/2024,High,In Progress
+10/7/2024,Wireless module upgrade caused latency spikepossible firmware mismatch.,10/7/2024,Urgent,On Hold
+7/4/2024,3D vision system under-picking SKUs from top shelvesimage recognition needs retraining.,7/5/2024,Low,Closed - Resolved
+3/4/2025,Picking robot skipping assigned aisle in optimization routemap index might be corrupted.,3/7/2025,Medium,Cancelled
+12/27/2024,Overhead robotic crane misaligned after system updaterequesting recalibration walkthrough.,1/2/2025,Medium,Closed - Resolved
+4/18/2025,HR database not syncing with shift handoff bot schedulermissing employee record.,4/23/2025,High,Open
+4/8/2025,Product loader mistiming drop-off with downstream conveyorsync pulse missing.,4/13/2025,Urgent,Closed - Resolved
+6/11/2024,High-pitched tone coming from servo in model XR100engineering to review noise profile.,6/14/2024,Low,In Progress
+7/22/2024,Night shift override not deactivating during scheduled switchlogic conflict in script.,7/30/2024,Medium,Closed - Resolved
+2/12/2025,Feedback loop delay causing robotic palletizer to miss timing sync with conveyor belt.,2/12/2025,High,Closed
+1/28/2025,Navigation system freezing mid-shiftpacket loss observed in Wi-Fi logs.,2/1/2025,Medium,Cancelled
+2/6/2025,Suction cup gripper losing pressure after 12 cyclescheck vacuum seal integrity.,2/8/2025,High,On Hold
+5/2/2024,Excessive noise reported from robotic jointscustomer suspects lubrication schedule not syncing.,5/12/2024,Medium,In Progress
+5/1/2024,Assembly line pauses when robotic gripper fails to complete handofflog shows force threshold error.,5/9/2024,Urgent,On Hold
+3/5/2025,Technician override mode triggering false alarmsUI miscommunication suspected.,3/9/2025,Medium,Closed - Resolved
